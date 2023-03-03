@@ -113,6 +113,10 @@ th, td{
       font-size: medium;
     }
 
+    .container{
+        padding: 10px;
+    }
+
     .history{
         margin: auto 0;
         width: 100%;
