@@ -133,3 +133,21 @@ th, td{
     }
   }
 
+  @media only screen and (max-width: 1096px){
+    .history, .child{
+        display: block;
+        text-align: center;
+        font-size: large;
+    }
+
+    img{
+        width: 80%;
+    }
+
+    .history img{
+        width: 80%;
+        height: 300px;
+        margin-top: 20px;
+    }
+  }
+
