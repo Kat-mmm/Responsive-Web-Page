@@ -101,15 +101,13 @@ th, td{
 .child img{
     float: right;
     width: 65%;
-    height: max-content;
+    height: 140px;
     padding: 8px;
 }
 
 .child p{
     text-align: justify;
 }
-
-
 
 @media only screen and (max-width: 768px) {
     .intro, .city, .history{
